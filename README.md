@@ -5,7 +5,7 @@ The mysql format of fastf1 is used for this notebook.
 You can:
 * calculate the average number of pit stops for the Grand Prix;
 * calculate in which lap the pit stops are made;
-* plot specific drivers in specific GrandPrix.  
+* plot specific drivers lap times in specific GrandPrix to see what appen before a pit stop.  
   
 Discaimer: it was created for practice using mysql, python and libraries like pandas, matplotlib and ipywidgets.  
 The mysql format is not the best for this analisis. You can use Fastf1's api which contains more information (like tyres' compound), https://theoehrly.github.io/Fast-F1/. 
